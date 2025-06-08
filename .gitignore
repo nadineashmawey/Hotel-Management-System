@@ -1,0 +1,25 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore build folders
+x64/
+Debug/
+Release/
+
+# Ignore compiled files
+*.exe
+*.obj
+*.pch
+*.pdb
+*.dll
+
+# Ignore user-specific or temp files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+
+# Ignore Visual Studio database
+*.VC.db
+*.aps
